@@ -48,29 +48,3 @@ Explore the forecasting results directly:
 The analysis uses **`maintrx`**, a transaction dataset. Its attributes are shown below:
 
 <img width="714" height="329" alt="maintrx dataset attributes" src="https://github.com/user-attachments/assets/8914b392-2ef1-4aed-b0eb-68455024ac26" />
-
-## 🔍 Key Findings
-
-- [Insight 1, e.g. Product X shows rising demand in Region Y]
-- [Insight 2, e.g. Seasonal peak occurs around ...]
-- [Insight 3, e.g. Model accuracy: MAPE / RMSE = ...]
-
-## 🧰 Tech Stack
-
-- **Language:** Python
-- **Libraries:** pandas, pmdarima, matplotlib [sesuaikan]
-- **Visualization:** Looker Studio
-
-## 📁 Repository Structure
-
-```
-├── data/          # dataset
-├── notebooks/     # analysis & modeling
-├── images/        # dashboard preview
-└── README.md
-```
-
-## 👤 Author
-
-**[Nama kamu]**
-[LinkedIn](link) · [Email](mailto:email)
