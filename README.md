@@ -39,7 +39,8 @@ Explore the forecasting results directly:
 
 [![Looker Studio Dashboard](https://img.shields.io/badge/Looker_Studio-View_Dashboard-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://datastudio.google.com/reporting/700c9a34-6d5f-4f21-8967-1fad4b3ab7c1)
 
-[![Dashboard Preview](https://github.com/user-attachments/assets/xxxx)](https://datastudio.google.com/reporting/8e862eb0-41f7-47c3-bcff-d2aa86492ab9)
+[![Dashboard Preview]()](https://datastudio.google.com/reporting/8e862eb0-41f7-47c3-bcff-d2aa86492ab9)
+
 *Click the image to open the live dashboard.*
 
 ## 🗂️ Dataset
