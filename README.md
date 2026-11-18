@@ -3,6 +3,7 @@ This repository contain artefacts of MBKM project about Data Science and AI for 
 
 Business Problem: 
 Optimizing marketing strategies based on responsiveness in understanding product quantities is becoming increasingly crucial amid the fast-paced consumer dynamics. Therefore, identifying opportunities for adjusting existing products is necessary.
+
 Solution: 
 Implementing forecasting models that can be used to predict product purchasing trends by customers and develop marketing strategies tailored to each product in different regions
 Dataset Atribute:
